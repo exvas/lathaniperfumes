@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include lathaniperfumes *.css
+recursive-include lathaniperfumes *.csv
+recursive-include lathaniperfumes *.html
+recursive-include lathaniperfumes *.ico
+recursive-include lathaniperfumes *.js
+recursive-include lathaniperfumes *.json
+recursive-include lathaniperfumes *.md
+recursive-include lathaniperfumes *.png
+recursive-include lathaniperfumes *.py
+recursive-include lathaniperfumes *.svg
+recursive-include lathaniperfumes *.txt
+recursive-exclude lathaniperfumes *.pyc
