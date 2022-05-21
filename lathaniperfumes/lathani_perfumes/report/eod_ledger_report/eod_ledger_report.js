@@ -40,7 +40,7 @@ frappe.query_reports["EOD Ledger Report"] = {
 			"fieldname":"account",
 			"label": __("Account"),
 			"fieldtype": "Select",
-			"options" : "\n1351 - Cash Sale-Gudaibiya - LT\n1352 - Card Sale-Gudaibiya - LT\n1353 - Cash Sale-Hamad Town - LT\n1354 - Card Sale-Hamad Town - LT\n1355 - Cash Sale-Manama - LT\n1356 - Card Sale-Manama - LT\1357 - Cash Sale-Wholesale - LT\1358 - Card Sale-Wholesale - LT\1359 - BenefitPay-Gudaibiya - LT\1362 - BenefitPay-Manama - LT\n1364 - BenefitPay-Hamad Town - LT",
+			"options" : "\n1351 - Cash Sale-Gudaibiya - LT\n1352 - Card Sale-Gudaibiya - LT\n1353 - Cash Sale-Hamad Town - LT\n1354 - Card Sale-Hamad Town - LT\n1355 - Cash Sale-Manama - LT\n1356 - Card Sale-Manama - LT\n1357 - Cash Sale-Wholesale - LT\n1358 - Card Sale-Wholesale - LT\n1359 - BenefitPay-Gudaibiya - LT\n1362 - BenefitPay-Manama - LT\n1364 - BenefitPay-Hamad Town - LT",
 			"reqd": 1
 		},
 		{
