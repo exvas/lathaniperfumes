@@ -1,0 +1,40 @@
+{
+ "category": "Modules",
+ "charts": [],
+ "creation": "2022-05-21 17:27:29.817791",
+ "developer_mode_only": 0,
+ "disable_user_customization": 1,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "icon": "crm",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Lathani Perfumes",
+ "links": [],
+ "modified": "2022-05-21 17:27:29.817791",
+ "modified_by": "Administrator",
+ "module": "Lathani Perfumes",
+ "name": "Lathani Perfumes",
+ "onboarding": "",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 1,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Simple EOD",
+   "link_to": "Simple EOD",
+   "type": "Report"
+  },
+  {
+   "doc_view": "",
+   "label": "EOD Ledger Report",
+   "link_to": "EOD Ledger Report",
+   "type": "Report"
+  }
+ ],
+ "shortcuts_label": "Lathani Perfumes"
+}
